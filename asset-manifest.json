@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PinCodeForm/static/css/main.71a90340.css",
+    "main.js": "/PinCodeForm/static/js/main.bcdc5ace.js",
+    "static/js/453.b3850252.chunk.js": "/PinCodeForm/static/js/453.b3850252.chunk.js",
+    "index.html": "/PinCodeForm/index.html",
+    "main.71a90340.css.map": "/PinCodeForm/static/css/main.71a90340.css.map",
+    "main.bcdc5ace.js.map": "/PinCodeForm/static/js/main.bcdc5ace.js.map",
+    "453.b3850252.chunk.js.map": "/PinCodeForm/static/js/453.b3850252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a90340.css",
+    "static/js/main.bcdc5ace.js"
+  ]
+}
